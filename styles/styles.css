@@ -2,6 +2,10 @@ body {
   font-family:TimesNewRoman;
 }
 
+button {
+    font-family : inherit;
+}
+
 /* Dropdown Button */
 .dropbtn {
   background-color: #04AA6D;
